@@ -7,11 +7,10 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="02d527f9-ab60-4704-a2a0-eeb1512f256a" />
+              <option name="sessionId" value="8a73e84a-b674-406b-a437-f783c0f6238f" />
               <option name="cwd" value="$PROJECT_DIR$" />
               <option name="model" value="claude-opus-4-8[1m]" />
               <option name="permissionMode" value="plan" />
-              <option name="reasoningEffort" value="high" />
             </TabSessionState>
           </value>
         </entry>
